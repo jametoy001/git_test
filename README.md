@@ -1,1 +1,1 @@
-# git_test
+This is James's first git project!
